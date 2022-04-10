@@ -1,4 +1,4 @@
-# bikesharing
+# Citi Bike Analysis
 
 ## Overview of the Statistical Analysis
 
