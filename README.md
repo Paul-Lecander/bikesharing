@@ -10,35 +10,61 @@ The aim of this analysis is to determine the feasibility of a similar bike share
 ## Results
 
 This analysis was created by making seven visualizations to get a better understanding of how Citi Bike works.
-To get a sense of the scale for how many bike rides were used to gather this data, **2,344,224**, a visulization was created to reflect that: <br />
-**Figure 1** <br />
-![Number of Trips](https://github.com/Paul-Lecander/bikesharing/blob/main/Images/Number_Of_Trips.png)
+To get a sense of the scale for how many bike rides were used to gather this data, **2,344,224**, a visulization was created to reflect that: </br>
 
-The next was to get a grasp of how long the trips lasted for the riders. As shown in the figure below, most rides lasted between 1 and 24 minutes with most rides lasting 5 minutes: <br />
-**Figure 2** <br />
-![Checkout Times for Users](https://github.com/Paul-Lecander/bikesharing/blob/main/Images/Checkout_Times_For_Users.png) <br />
+**Figure 1** </br>
 
-To further understand Citi Bike's demographics of their customers, a pie chart was made to display the gender: <br />
-**Figure 3** <br />
-![Gender Breakdown](https://github.com/Paul-Lecander/bikesharing/blob/main/Images/Gender_Breakdown.png) <br />
+![Number of Trips](https://github.com/Paul-Lecander/bikesharing/blob/main/Images/Number_Of_Trips.png)</br>
+</br>
+</br>
 
+The next was to get a grasp of how long the trips lasted for the riders. As shown in the figure below, most rides lasted between 1 and 24 minutes with most rides lasting 5 minutes: </br>
 
-A line graph was then created to determine if there was any difference between genders and trip duration: <br />
-**Figure 4** <br />
-![Checkout Times For Users By Gender](https://github.com/Paul-Lecander/bikesharing/blob/main/Images/Checkout_Times_For_Users_By_Gender.png)<br />
+**Figure 2** </br>
 
-Determining the busiest times for bike riders was an important factor in the analysis. For this visualization, a heatchart was created to show the busiest times and days throughout the week: <br />
-**Figure 5** <br />
-![Trips By Weekday for Each Hour](https://github.com/Paul-Lecander/bikesharing/blob/main/Images/Trips_By_Weekday_For_Each_Hour.png) <br />
+![Checkout Times for Users](https://github.com/Paul-Lecander/bikesharing/blob/main/Images/Checkout_Times_For_Users.png)</br>
+</br>
+</br>
 
-The next logical step was to take the analysis done in figure 5 and apply it to each gender like the analysis done in figure 4: <br />
-**Figure 6** <br />
-![Trips By Gender Weekday Per Hour](https://github.com/Paul-Lecander/bikesharing/blob/main/Images/Trips_By_Gender_Weekday_Per_Hour.png) <br />
+To further understand Citi Bike's demographics of their customers, a pie chart was made to display the gender:</br>
 
-Finally, a comparison was done to show how many Citi Bike riders were subsribers to the service compared to non-subscribers between genders: <br />
-**Figure 7** <br />
-![Trips By Gender By Weekday](https://github.com/Paul-Lecander/bikesharing/blob/main/Images/Trips_By_Gender_By_Weekday.png) <br />
+**Figure 3** </br>
 
+![Gender Breakdown](https://github.com/Paul-Lecander/bikesharing/blob/main/Images/Gender_Breakdown.png) </br>
+</br>
+</br>
+
+A line graph was then created to determine if there was any difference between genders and trip duration: </br>
+
+**Figure 4** </br>
+
+![Checkout Times For Users By Gender](https://github.com/Paul-Lecander/bikesharing/blob/main/Images/Checkout_Times_For_Users_By_Gender.png)</br>
+</br>
+</br>
+
+Determining the busiest times for bike riders was an important factor in the analysis. For this visualization, a heatchart was created to show the busiest times and days throughout the week: </br>
+
+**Figure 5** </br>
+
+![Trips By Weekday for Each Hour](https://github.com/Paul-Lecander/bikesharing/blob/main/Images/Trips_By_Weekday_For_Each_Hour.png) </br>
+</br>
+</br>
+
+The next logical step was to take the analysis done in figure 5 and apply it to each gender like the analysis done in figure 4: </br>
+
+**Figure 6** </br>
+
+![Trips By Gender Weekday Per Hour](https://github.com/Paul-Lecander/bikesharing/blob/main/Images/Trips_By_Gender_Weekday_Per_Hour.png) </br>
+</br>
+</br>
+
+Finally, a comparison was done to show how many Citi Bike riders were subsribers to the service compared to non-subscribers between genders: </br>
+
+**Figure 7** </br>
+
+![Trips By Gender By Weekday](https://github.com/Paul-Lecander/bikesharing/blob/main/Images/Trips_By_Gender_By_Weekday.png) </br>
+</br>
+</br>
 
 ## Summary
 
